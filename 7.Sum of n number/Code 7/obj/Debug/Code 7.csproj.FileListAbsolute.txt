@@ -1,0 +1,13 @@
+D:\Project\Code 7\Code 7\bin\Debug\Code 7.exe.config
+D:\Project\Code 7\Code 7\bin\Debug\Code 7.exe
+D:\Project\Code 7\Code 7\bin\Debug\Code 7.pdb
+D:\Project\Code 7\Code 7\obj\Debug\Code 7.exe
+D:\Project\Code 7\Code 7\obj\Debug\Code 7.pdb
+D:\Project\7.Sum of n number\Code 7\bin\Debug\Code 7.exe.config
+D:\Project\7.Sum of n number\Code 7\obj\Debug\Code 7.exe
+D:\Project\7.Sum of n number\Code 7\obj\Debug\Code 7.pdb
+D:\Project\7.Sum of n number\Code 7\bin\Debug\Code 7.exe
+D:\Project\7.Sum of n number\Code 7\bin\Debug\Code 7.pdb
+D:\c# project\7.Sum of n number\Code 7\bin\Debug\Code 7.exe.config
+D:\c# project\7.Sum of n number\Code 7\obj\Debug\Code 7.exe
+D:\c# project\7.Sum of n number\Code 7\obj\Debug\Code 7.pdb

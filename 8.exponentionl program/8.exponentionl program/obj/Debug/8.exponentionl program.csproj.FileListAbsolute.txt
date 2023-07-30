@@ -1,0 +1,6 @@
+D:\Project\8.exponentionl program\8.exponentionl program\bin\Debug\8.exponentionl program.exe.config
+D:\c# project\8.exponentionl program\8.exponentionl program\bin\Debug\8.exponentionl program.exe.config
+D:\c# project\8.exponentionl program\8.exponentionl program\bin\Debug\8.exponentionl program.exe
+D:\c# project\8.exponentionl program\8.exponentionl program\bin\Debug\8.exponentionl program.pdb
+D:\c# project\8.exponentionl program\8.exponentionl program\obj\Debug\8.exponentionl program.exe
+D:\c# project\8.exponentionl program\8.exponentionl program\obj\Debug\8.exponentionl program.pdb
