@@ -1,0 +1,5 @@
+D:\Project\13.n number\13.n number\bin\Debug\13.n number.exe.config
+D:\Project\13.n number\13.n number\bin\Debug\13.n number.exe
+D:\Project\13.n number\13.n number\bin\Debug\13.n number.pdb
+D:\Project\13.n number\13.n number\obj\Debug\13.n number.exe
+D:\Project\13.n number\13.n number\obj\Debug\13.n number.pdb

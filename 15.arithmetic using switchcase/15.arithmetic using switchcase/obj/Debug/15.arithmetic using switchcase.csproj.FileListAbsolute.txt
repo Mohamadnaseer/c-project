@@ -1,0 +1,6 @@
+D:\Project\15.arithmetic using switchcase\15.arithmetic using switchcase\bin\Debug\15.arithmetic using switchcase.exe.config
+D:\Project\15.arithmetic using switchcase\15.arithmetic using switchcase\obj\Debug\15.arithmetic using switchcase.csprojResolveAssemblyReference.cache
+D:\Project\15.arithmetic using switchcase\15.arithmetic using switchcase\bin\Debug\15.arithmetic using switchcase.exe
+D:\Project\15.arithmetic using switchcase\15.arithmetic using switchcase\bin\Debug\15.arithmetic using switchcase.pdb
+D:\Project\15.arithmetic using switchcase\15.arithmetic using switchcase\obj\Debug\15.arithmetic using switchcase.exe
+D:\Project\15.arithmetic using switchcase\15.arithmetic using switchcase\obj\Debug\15.arithmetic using switchcase.pdb
