@@ -1,0 +1,6 @@
+D:\Project\Code 1\Code 1\bin\Debug\Code 1.exe.config
+D:\Project\4.India Mart\Code 1\bin\Debug\Code 1.exe.config
+D:\Project\4.India Mart\Code 1\bin\Debug\Code 1.exe
+D:\Project\4.India Mart\Code 1\bin\Debug\Code 1.pdb
+D:\Project\4.India Mart\Code 1\obj\Debug\Code 1.exe
+D:\Project\4.India Mart\Code 1\obj\Debug\Code 1.pdb

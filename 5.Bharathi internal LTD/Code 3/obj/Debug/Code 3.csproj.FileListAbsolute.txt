@@ -1,0 +1,11 @@
+D:\Project\Code 3\Code 3\bin\Debug\Code 3.exe.config
+D:\Project\Code 3\Code 3\bin\Debug\Code 3.exe
+D:\Project\Code 3\Code 3\bin\Debug\Code 3.pdb
+D:\Project\Code 3\Code 3\obj\Debug\Code 3.exe
+D:\Project\Code 3\Code 3\obj\Debug\Code 3.pdb
+D:\Project\5.Bharathi internal LTD\Code 3\bin\Debug\Code 3.exe.config
+D:\Project\5.Bharathi internal LTD\Code 3\obj\Debug\Code 3.exe
+D:\Project\5.Bharathi internal LTD\Code 3\obj\Debug\Code 3.pdb
+D:\c# project\5.Bharathi internal LTD\Code 3\bin\Debug\Code 3.exe.config
+D:\c# project\5.Bharathi internal LTD\Code 3\obj\Debug\Code 3.exe
+D:\c# project\5.Bharathi internal LTD\Code 3\obj\Debug\Code 3.pdb
