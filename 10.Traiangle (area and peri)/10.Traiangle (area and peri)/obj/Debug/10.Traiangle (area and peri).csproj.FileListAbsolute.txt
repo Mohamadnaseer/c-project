@@ -1,0 +1,9 @@
+D:\Project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\bin\Debug\10.Traiangle (area and peri).exe.config
+D:\Project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\bin\Debug\10.Traiangle (area and peri).exe
+D:\Project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\bin\Debug\10.Traiangle (area and peri).pdb
+D:\Project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\obj\Debug\10.Traiangle (area and peri).csprojResolveAssemblyReference.cache
+D:\Project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\obj\Debug\10.Traiangle (area and peri).exe
+D:\Project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\obj\Debug\10.Traiangle (area and peri).pdb
+D:\c# project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\bin\Debug\10.Traiangle (area and peri).exe.config
+D:\c# project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\obj\Debug\10.Traiangle (area and peri).exe
+D:\c# project\10.Traiangle (area and peri)\10.Traiangle (area and peri)\obj\Debug\10.Traiangle (area and peri).pdb

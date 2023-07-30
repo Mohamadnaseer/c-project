@@ -1,0 +1,5 @@
+D:\Project\11.student ML\11.student ML\bin\Debug\11.student ML.exe.config
+D:\Project\11.student ML\11.student ML\bin\Debug\11.student ML.exe
+D:\Project\11.student ML\11.student ML\bin\Debug\11.student ML.pdb
+D:\Project\11.student ML\11.student ML\obj\Debug\11.student ML.exe
+D:\Project\11.student ML\11.student ML\obj\Debug\11.student ML.pdb
